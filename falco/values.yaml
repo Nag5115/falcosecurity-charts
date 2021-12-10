@@ -1,8 +1,8 @@
 # Default values for Falco.
 
 image:
-  registry: docker.io
-  repository: falcosecurity/falco
+  registry: docker.apple.com
+  repository: nponnaganti/falcosecurity/falco
   tag: 0.30.0
   pullPolicy: IfNotPresent
   pullSecrets: []
